@@ -1,4 +1,4 @@
-**Azure Data Warehouse Learning Repository**  
+# **Azure Data Warehouse Learning Repository**  
 *Overview*  
 This repository documents my hands-on learning journey with **Azure Data Warehousing and Analytics**. It covers the core concepts, architectural patterns, and practical steps I followed to build, manage, and analyze data using *Azure Synapse Analytics* and related services. The goal is to serve as a reference for myself and others exploring modern cloud data warehousing with Azure.  
 
